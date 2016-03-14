@@ -5,6 +5,8 @@ author: Aishwarya Padmanabha
 
 The GLUG sessions for the semester kicked off with an <strong>Introduction to Graphics Programming with Processing</strong>. Processing is an open source language designed for people into electronic art, though it was initially created as a tool to make teaching programming easier by providing visual feedback. We figured it was the perfect choice to give a bunch of students an introduction to programming.
 
+<img src="{{ site.url }}/images/processing.jpg" alt="Rahul Kondi gives an introduction to Processing">
+
 In the first session, Rahul gave the students an introduction to Processing, which was then followed by a hands-on session on the basics. This included creating lines and shapes and filling them up with numerous combinations of reds, blues and greens using the *fill()* function and playing around with the background color of the window and thickness of the lines using the *background()* and *stroke()* functions. Unfortunately, we started running out of time and so, the session was concluded with an introduction to loops.
 
 The second session was handled primarily by the volunteers. They gave an introduction to basic functions such as *draw()* and *setup()*. This was followed by the application of loops, a continuation of what was taught in the previous session. They then covered the basics fundamentals of using arrays, that is, representing 2-D shapes like ellipses using arrays. They combined loops and arrays to make multiple shapes, which they programmed to move around using mouse input functions like *mouseReleased()* and *mousePressed()*.
