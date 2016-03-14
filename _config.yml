@@ -7,7 +7,7 @@ name:               "Free Software Society"
 description:        "for, by, and of the students"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
+url:                "http://fssoc.github.io"
 author:             "gfjaru"
 twitter:
   username:         "gfjaru"
@@ -26,9 +26,7 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "about"
 
 # Sass
 sass:
