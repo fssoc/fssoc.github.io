@@ -3,6 +3,6 @@ title: About
 permalink: /about/
 ---
 
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
+<p class="lead">Free Software Society</p>
 
-Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+We're a bunch of like minded folks who like to learn to use and develop Free and Open Source Software.
