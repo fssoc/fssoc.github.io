@@ -13,6 +13,9 @@ Once again, we were running out of time and we had to end the session with a rap
 
 Overall, both the sessions were a lot of fun. Everyone learnt something new, volunteers included. And, as a bonus, a couple of people discovered their genuine interest in graphics programming!
 
+**Lead:**<br>
+Rahul Kondi
+
 **Volunteers:**<br>
 Akshatha R Bhat<br>
 Anagha Dudihalli<br>
