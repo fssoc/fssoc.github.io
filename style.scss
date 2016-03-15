@@ -338,6 +338,7 @@ tbody tr:nth-child(odd) th {
 .post {
   &-title {
     margin-bottom: .25rem;
+    color: #37c8ab;
   }
   &-date {
     margin-bottom: 2rem;
@@ -351,7 +352,8 @@ tbody tr:nth-child(odd) th {
     margin-bottom: .25rem;
 
     a {
-      color: #333;
+      //color: #333;
+      color: #37c8ab;
 
       &:hover,
       &:focus {
