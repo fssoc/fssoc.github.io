@@ -386,6 +386,11 @@ tbody tr:nth-child(odd) th {
     background: url("https://raw.githubusercontent.com/fssoc/fssoc.github.io/master/images/fss_logo_active.png");
     background-repeat: no-repeat;
   }
+
+  @media screen and (max-width: 210px) {
+    min-width: 100%;
+  }
+  
 }
 
 .highlight .hll { background-color: #ffffcc }
