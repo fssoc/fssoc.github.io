@@ -374,6 +374,20 @@ tbody tr:nth-child(odd) th {
   }
 }
 
+.fss_logo {
+  background: url("https://raw.githubusercontent.com/fssoc/fssoc.github.io/master/images/fss_logo_inactive.png");
+  background-repeat: no-repeat;
+  min-height: 210px;
+  min-width: 210px;
+  display: inline-block;
+
+  &:hover,
+  &:focus {
+    background: url("https://raw.githubusercontent.com/fssoc/fssoc.github.io/master/images/fss_logo_active.png");
+    background-repeat: no-repeat;
+  }
+}
+
 .highlight .hll { background-color: #ffffcc }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
