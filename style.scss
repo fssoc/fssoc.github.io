@@ -263,9 +263,28 @@ tbody tr:nth-child(odd) th {
   margin-left:  auto;
   margin-right: auto;
 
-  @media (min-width: 38rem){
+  @media (min-width: 1024px){
     padding: 5rem 1rem;
+    margin-top: -300px;
+    margin-left: none;
+
   }
+}
+
+.container-logo {
+    max-width: 38rem;
+    padding: 2rem 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -50px;
+
+    @media (min-width: 38rem) {
+        max-width: none;
+        padding: none;
+        margin-left: none;
+        margin-right: none;
+        margin-bottom: none;
+    }
 }
 
 .masthead {
@@ -390,20 +409,26 @@ tbody tr:nth-child(odd) th {
 }
 
 .fss_logo {
-  background: url("https://raw.githubusercontent.com/fssoc/fssoc.github.io/master/images/fss_logo_inactive.png");
+  background: url("http://127.0.0.1:4000/images/fss_logo_inactive.png");
   background-repeat: no-repeat;
   min-height: 210px;
   min-width: 210px;
   display: inline-block;
+  //margin-top:10px;
 
   &:hover,
   &:focus {
-    background: url("https://raw.githubusercontent.com/fssoc/fssoc.github.io/master/images/fss_logo_active.png");
+    background: url("http://127.0.0.1:4000/images/fss_logo_active.png");
     background-repeat: no-repeat;
   }
 
   @media screen and (max-width: 210px) {
-    min-width: 100%;
+    max-width: 100%;
+  }
+
+  @media screen and (min-width: 1024px) {
+      margin-top: 100px;
+      margin-left: 50px;
   }
 
 }
