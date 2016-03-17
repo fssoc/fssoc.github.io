@@ -409,7 +409,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .fss_logo {
-  background: url("http://127.0.0.1:4000/images/fss_logo_inactive.png");
+  background: url("https://fssoc.github.io/images/fss_logo_inactive.png");
   background-repeat: no-repeat;
   min-height: 210px;
   min-width: 210px;
@@ -418,7 +418,7 @@ tbody tr:nth-child(odd) th {
 
   &:hover,
   &:focus {
-    background: url("http://127.0.0.1:4000/images/fss_logo_active.png");
+    background: url("https://fssoc.github.io/images/fss_logo_active.png");
     background-repeat: no-repeat;
   }
 
