@@ -232,7 +232,7 @@ img {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
-  //border-radius: 5px;
+  border-radius: 5px;
 }
 
 table {
@@ -335,6 +335,10 @@ tbody tr:nth-child(odd) th {
         color: #fff;
       }
     }
+
+    @media screen and (min-width: 1024px) {
+        margin-top: 20px;
+    }
   }
 
   .masthead-nav {
@@ -409,16 +413,17 @@ tbody tr:nth-child(odd) th {
 }
 
 .fss_logo {
-  background: url("https://fssoc.github.io/images/fss_logo_inactive.png");
+  background: url("images/fss_logo_inactive.png");
+  //background-size: 100px 100px;
   background-repeat: no-repeat;
   min-height: 210px;
   min-width: 210px;
   display: inline-block;
-  //margin-top:10px;
 
   &:hover,
   &:focus {
-    background: url("https://fssoc.github.io/images/fss_logo_active.png");
+    background: url("images/fss_logo_active.png");
+    //background-size: 100px 100px;
     background-repeat: no-repeat;
   }
 
