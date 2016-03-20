@@ -355,7 +355,8 @@ tbody tr:nth-child(odd) th {
 
       &:hover,
       &:focus {
-        color: #333;
+        //color: #333;
+        color: #37c8ab;
         text-decoration: none;
       }
 
@@ -367,14 +368,18 @@ tbody tr:nth-child(odd) th {
 
 }
 
+
 .page {
   &-title {
     margin-bottom: 2rem;
+    margin-top: 2rem;
+    color: #37c8ab;
   }
 }
 
 .post {
   &-title {
+    margin-top: 2rem;
     margin-bottom: .25rem;
     color: #37c8ab;
   }
