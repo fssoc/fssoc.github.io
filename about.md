@@ -5,7 +5,7 @@ permalink: /about/
 
 <p class="lead">Free Software Society</p>
 
-We’re a bunch of likeminded folk who like to learn to use and develop Free Software (FS).
+We’re a bunch of like-minded folk who like to learn to use and develop Free Software (FS).
 
 <strong>So, what’s Free Software?</strong>
 
