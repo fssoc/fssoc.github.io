@@ -7,7 +7,7 @@ name:               "Free Software Society"
 description:        "for, by, and of the students"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "http://fssoc.github.io"
+url:                "https://fssoc.github.io"
 author:             "gfjaru"
 twitter:
   username:         "gfjaru"
