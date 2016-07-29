@@ -2,6 +2,7 @@
 title: My Experience At FSMK Camp 16
 author: Abhinav A B
 ---
+
 I thought FSMK camp '16 would be a good way to kill some time but soon realized that it was much more than that. I learnt lot of new things like FOSS, web-backend and much more.
 
 FSMK camp is a volunteer-driven camp organised by FSMK. It's a non-profit organisation dedicated to promote usage of free and open source softwares. 
