@@ -1,5 +1,5 @@
 ---
-title: My Experience At FSMK Camp 16
+title: The One With The Camp
 author: Akshatha Bhat
 ---
 
